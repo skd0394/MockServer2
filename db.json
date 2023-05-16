@@ -1,12 +1,6 @@
 {
-  "employees":[
-    {
-      "id": 1,
-      "firstN": "shivkant",
-      "lastN": "dubey",
-      "email": "shivkd1908@gmail.com",
-      "department": "Tech",
-      "salary": 8000
-    }
-  ]
+  "users":[
+    
+  ],
+  "data":[]
 }
